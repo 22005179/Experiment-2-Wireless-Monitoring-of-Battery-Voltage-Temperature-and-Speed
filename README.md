@@ -104,5 +104,6 @@ disp('Simulation Complete (No COM Port Needed).');
 
  
 ## Results:
+
 The MATLAB program successfully receives and visualizes real-time battery voltage, temperature, and speed data from the embedded system using wireless communication.
 
